@@ -3,9 +3,6 @@
   "description": "Have Silly Tavern dynamically add and remove data from the world info database.",
   "version": "1.0.0",
   "main": "plugin.py",
-  "requirements": [
-    "Flask"
-  ],
   "settings": "settings.json",
   "ui": {
     "index": "ui/index.html"
