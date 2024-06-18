@@ -1,0 +1,12 @@
+{
+  "name": "Dynamic World Data",
+  "description": "Have Silly Tavern dynamically add and remove data from the world info database.",
+  "version": "1.0.0",
+  "main": "plugin.py",
+  "requirements": [
+    "Flask"
+  ],
+  "ui": {
+    "index": "ui/index.html"
+  }
+}
