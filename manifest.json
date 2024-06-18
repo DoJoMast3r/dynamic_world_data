@@ -4,7 +4,5 @@
   "version": "1.0.0",
   "main": "plugin.py",
   "settings": "settings.json",
-  "ui": {
-    "index": "ui/index.html"
-  }
+  "entry": "ui/index.html"
 }
