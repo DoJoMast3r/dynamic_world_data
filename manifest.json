@@ -4,5 +4,7 @@
   "version": "1.0.0",
   "main": "plugin.py",
   "settings": "settings.json",
-  "entry": "ui/index.html"
+  "entry": "ui/index.html",
+  "author": "Your Name",
+  "license": "MIT"
 }
