@@ -6,6 +6,7 @@
   "requirements": [
     "Flask"
   ],
+  "settings": "settings.json",
   "ui": {
     "index": "ui/index.html"
   }
